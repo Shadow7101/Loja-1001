@@ -1,0 +1,8 @@
+C:\prg\Loja\02-Business\Loja.Dominio\bin\Debug\netstandard2.0\Loja.Dominio.deps.json
+C:\prg\Loja\02-Business\Loja.Dominio\bin\Debug\netstandard2.0\Loja.Dominio.dll
+C:\prg\Loja\02-Business\Loja.Dominio\bin\Debug\netstandard2.0\Loja.Dominio.pdb
+C:\prg\Loja\02-Business\Loja.Dominio\obj\Debug\netstandard2.0\Loja.Dominio.csprojAssemblyReference.cache
+C:\prg\Loja\02-Business\Loja.Dominio\obj\Debug\netstandard2.0\Loja.Dominio.AssemblyInfoInputs.cache
+C:\prg\Loja\02-Business\Loja.Dominio\obj\Debug\netstandard2.0\Loja.Dominio.AssemblyInfo.cs
+C:\prg\Loja\02-Business\Loja.Dominio\obj\Debug\netstandard2.0\Loja.Dominio.dll
+C:\prg\Loja\02-Business\Loja.Dominio\obj\Debug\netstandard2.0\Loja.Dominio.pdb

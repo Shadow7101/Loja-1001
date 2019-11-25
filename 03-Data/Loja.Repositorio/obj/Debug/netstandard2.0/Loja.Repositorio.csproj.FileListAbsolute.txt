@@ -1,0 +1,8 @@
+C:\prg\Loja\03-Data\Loja.Repositorio\bin\Debug\netstandard2.0\Loja.Repositorio.deps.json
+C:\prg\Loja\03-Data\Loja.Repositorio\bin\Debug\netstandard2.0\Loja.Repositorio.dll
+C:\prg\Loja\03-Data\Loja.Repositorio\bin\Debug\netstandard2.0\Loja.Repositorio.pdb
+C:\prg\Loja\03-Data\Loja.Repositorio\obj\Debug\netstandard2.0\Loja.Repositorio.csprojAssemblyReference.cache
+C:\prg\Loja\03-Data\Loja.Repositorio\obj\Debug\netstandard2.0\Loja.Repositorio.AssemblyInfoInputs.cache
+C:\prg\Loja\03-Data\Loja.Repositorio\obj\Debug\netstandard2.0\Loja.Repositorio.AssemblyInfo.cs
+C:\prg\Loja\03-Data\Loja.Repositorio\obj\Debug\netstandard2.0\Loja.Repositorio.dll
+C:\prg\Loja\03-Data\Loja.Repositorio\obj\Debug\netstandard2.0\Loja.Repositorio.pdb

@@ -1,0 +1,8 @@
+C:\prg\Loja\02-Business\Loja.Aplicacao\bin\Debug\netstandard2.0\Loja.Aplicacao.deps.json
+C:\prg\Loja\02-Business\Loja.Aplicacao\bin\Debug\netstandard2.0\Loja.Aplicacao.dll
+C:\prg\Loja\02-Business\Loja.Aplicacao\bin\Debug\netstandard2.0\Loja.Aplicacao.pdb
+C:\prg\Loja\02-Business\Loja.Aplicacao\obj\Debug\netstandard2.0\Loja.Aplicacao.csprojAssemblyReference.cache
+C:\prg\Loja\02-Business\Loja.Aplicacao\obj\Debug\netstandard2.0\Loja.Aplicacao.AssemblyInfoInputs.cache
+C:\prg\Loja\02-Business\Loja.Aplicacao\obj\Debug\netstandard2.0\Loja.Aplicacao.AssemblyInfo.cs
+C:\prg\Loja\02-Business\Loja.Aplicacao\obj\Debug\netstandard2.0\Loja.Aplicacao.dll
+C:\prg\Loja\02-Business\Loja.Aplicacao\obj\Debug\netstandard2.0\Loja.Aplicacao.pdb
