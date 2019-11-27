@@ -1,21 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-FrontEnd", "01-FrontEnd", "{0B1B9EEC-F2DD-43EA-B39D-C9040D089DF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Web", "01-FrontEnd\Loja.Web\Loja.Web.csproj", "{D472E5E3-FB3D-4D07-92C7-EB466493097C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loja.Web", "01-FrontEnd\Loja.Web\Loja.Web.csproj", "{D472E5E3-FB3D-4D07-92C7-EB466493097C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Business", "02-Business", "{816AFF26-43A5-4EE8-8980-243448D1A485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Aplicacao", "02-Business\Loja.Aplicacao\Loja.Aplicacao.csproj", "{28E7AC19-0433-4D33-A620-980D631C1ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loja.Aplicacao", "02-Business\Loja.Aplicacao\Loja.Aplicacao.csproj", "{28E7AC19-0433-4D33-A620-980D631C1ECE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Dominio", "02-Business\Loja.Dominio\Loja.Dominio.csproj", "{815951DE-D4DD-43CB-95B4-4152C5ED93B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loja.Dominio", "02-Business\Loja.Dominio\Loja.Dominio.csproj", "{815951DE-D4DD-43CB-95B4-4152C5ED93B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Data", "03-Data", "{D01D0A45-4FAD-43C3-8C97-ED03AFA15EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Repositorio", "03-Data\Loja.Repositorio\Loja.Repositorio.csproj", "{FE5B6601-940B-489D-9405-AC56737FBDA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loja.Repositorio", "03-Data\Loja.Repositorio\Loja.Repositorio.csproj", "{FE5B6601-940B-489D-9405-AC56737FBDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Web1", "01-FrontEnd\Loja.Web1\Loja.Web1.csproj", "{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,9 +27,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D472E5E3-FB3D-4D07-92C7-EB466493097C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -78,11 +77,30 @@ Global
 		{FE5B6601-940B-489D-9405-AC56737FBDA3}.Release|x64.Build.0 = Release|Any CPU
 		{FE5B6601-940B-489D-9405-AC56737FBDA3}.Release|x86.ActiveCfg = Release|Any CPU
 		{FE5B6601-940B-489D-9405-AC56737FBDA3}.Release|x86.Build.0 = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|x64.Build.0 = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Debug|x86.Build.0 = Debug|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|x64.ActiveCfg = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|x64.Build.0 = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D472E5E3-FB3D-4D07-92C7-EB466493097C} = {0B1B9EEC-F2DD-43EA-B39D-C9040D089DF7}
 		{28E7AC19-0433-4D33-A620-980D631C1ECE} = {816AFF26-43A5-4EE8-8980-243448D1A485}
 		{815951DE-D4DD-43CB-95B4-4152C5ED93B3} = {816AFF26-43A5-4EE8-8980-243448D1A485}
 		{FE5B6601-940B-489D-9405-AC56737FBDA3} = {D01D0A45-4FAD-43C3-8C97-ED03AFA15EC3}
+		{6FD2AD0A-AACB-4C88-B2A1-D9380540DC8B} = {0B1B9EEC-F2DD-43EA-B39D-C9040D089DF7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1872D615-49FA-434A-A7F3-59B3CDCF4744}
 	EndGlobalSection
 EndGlobal

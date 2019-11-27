@@ -6,6 +6,7 @@ namespace Loja.Dominio.Entidades
     {
         public int Id { get; set; }
         public int UsuarioId { get; set; }
+        public virtual Usuario Usuario { get; set; }
         public string CEP { get; set; }
         public string Logradouro { get; set; }
         public string Bairro { get; set; }
