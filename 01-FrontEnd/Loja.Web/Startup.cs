@@ -15,10 +15,10 @@ namespace Loja.Web
     {
         public Startup(IConfiguration configuration)
         {
-            var builder = new ConfigurationBuilder();
-            builder.AddJsonFile("config.json", optional: false, reloadOnChange: true);
+            //var builder = new ConfigurationBuilder();
+            //builder.AddJsonFile("config.json", optional: false, reloadOnChange: true);
 
-            Configuration = builder.Build();
+            Configuration = configuration;
         }
 
         public IConfiguration Configuration { get; }
@@ -26,9 +26,9 @@ namespace Loja.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<LojaContexto>(options => options.UseSqlite("Data Source=blog.db"));
+            //services.AddDbContext<LojaContexto>(options => options.UseSqlite("Data Source=blog.db"));
 
-            //services.AddDbContext<LojaContexto>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<LojaContexto>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddControllersWithViews();
 

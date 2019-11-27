@@ -20,4 +20,9 @@ namespace Loja.Repositorio.Contexto
             modelBuilder.ApplyConfiguration(new UsuarioConfiguration());
             modelBuilder.ApplyConfiguration(new EnderecoConfiguration());
             modelBuilder.ApplyConfiguration(new FormaDePagamentoConfiguration());
-            model
+            modelBuilder.ApplyConfiguration(new OrcamentoConfiguration());
+            modelBuilder.ApplyConfiguration(new OrcamentoItemConfiguration());
+            modelBuilder.ApplyConfiguration(new ProdutoConfiguration());
+        }
+    }
+}
